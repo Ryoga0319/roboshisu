@@ -24,3 +24,7 @@ $ echo 1 > /dev/myled0
 
 $ sudo rmmod myled
 ```
+
+git@github.com:kato-masahiro/RaspberryPi_LEDbrink.git
+
+のものを一部カスタマイズした
