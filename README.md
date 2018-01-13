@@ -11,7 +11,7 @@ $ sudo ./kernel_build_and_install_for_pi2_pi3.bash
 $ sudo reboot
 
 この後リポジトリをクローンして、以下のようにコマンドを入力する  
-
+```
 $ cd RaspberryPi_LEDbrink
 
 $ make
@@ -23,7 +23,7 @@ $ sudo chmod 666 /dev/myled0
 $ echo 1 > /dev/myled0  
 
 $ sudo rmmod myled
-```
+
 
 git@github.com:kato-masahiro/RaspberryPi_LEDbrink.git
 
