@@ -10,7 +10,7 @@ $ sudo ./kernel_build_and_install_for_pi2_pi3.bash
 
 $ sudo reboot
 ```
-この後リポジトリをクローンして、以下のようにコマンドを入力する  
+この後リポジトリをクローンし、以下のようにコマンドを入力する  
 ```
 $ cd RaspberryPi_LEDbrink
 
