@@ -1,6 +1,6 @@
 ロボシスの課題１
 
-LED
+LEDが点滅する
 ```
 $ git-clone https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts.git
 
