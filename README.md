@@ -1,7 +1,7 @@
 ロボシスの課題１
 １４２６０５２佐藤諒我
 
-LEDが点滅する
+LEDが点灯・消滅・点灯を繰り返す
 ```
 $ git-clone https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts.git
 
