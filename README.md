@@ -2,7 +2,7 @@
 
 1426052 佐藤諒我
 
-LEDが点灯・消滅・点灯を繰り返す
+LEDが点灯・消灯・点灯を繰り返す
 ```
 $ git-clone https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts.git
 
@@ -29,4 +29,4 @@ $ sudo rmmod myled
 
 https://github.com/kato-masahiro/RaspberryPi_LEDbrink
 
-から許可を得て一部カスタマイズした
+から許可を得て点灯・消灯時間が早くなるよう一部カスタマイズした
