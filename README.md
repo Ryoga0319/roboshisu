@@ -11,7 +11,7 @@ $ sudo ./kernel_build_and_install_for_pi2_pi3.bash
 
 $ sudo reboot
 ```
-この後リポジトリをクローンし、以下のようにコマンドを入力する  
+reboot後、このリポジトリをクローンし、以下のようにコマンドを入力する  
 ```
 $ cd RaspberryPi_LEDbrink
 
@@ -28,4 +28,4 @@ $ sudo rmmod myled
 
 https://github.com/kato-masahiro/RaspberryPi_LEDbrink
 
-のものを一部カスタマイズした
+から許可を得て一部カスタマイズした
