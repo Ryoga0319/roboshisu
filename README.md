@@ -26,6 +26,6 @@ $ echo 1 > /dev/myled0
 $ sudo rmmod myled
 ```
 
-git@github/com:kato-masahiro/RaspberryPi_LEDbrink.git
+https://github.com/kato-masahiro/RaspberryPi_LEDbrink
 
 のものを一部カスタマイズした
